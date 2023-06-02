@@ -581,4 +581,11 @@ const entries = [
 		author: "Nithish Gajula",
 		github: "nithish-gajula"
 	},
+	{
+		title: "Tourindex",
+		filename: "Tourindex.html",
+		description: "Simple tour website landing page without CSS by Dolapo Olatoye",
+		author: "Dolapo Salim Olatoye",
+		github: "DolapoSalim"
+	},
 ];
